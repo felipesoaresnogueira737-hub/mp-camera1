@@ -1,0 +1,8 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+captures/
+.DS_Store
+# modelo é baixado pelo workflow (ou manualmente, veja README)
